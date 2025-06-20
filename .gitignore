@@ -1,0 +1,14 @@
+# Go build
+bin/
+*.exe
+*.out
+*.test
+*.log
+
+# Proto generated
+*.pb.go
+
+# VSCode & OS files
+.vscode/
+.idea/
+.DS_Store
