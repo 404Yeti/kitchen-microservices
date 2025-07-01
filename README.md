@@ -14,19 +14,6 @@ A lightweight microservices application using **Go**, **gRPC**, and **HTML templ
 
 ---
 
-## 📁 Project Structure
-kitchen/
-├── protobuf/ # .proto definitions
-├── services/
-│ ├── orders/
-│ │ ├── handler/ # gRPC + HTTP handlers
-│ │ ├── service/ # Business logic layer
-│ │ ├── types/ # Interface definitions
-│ │ ├── util/ # Helpers
-│ │ └── main.go # Entrypoint
-├── Makefile
-└── README.md
-
 --
 
 ## Usage
